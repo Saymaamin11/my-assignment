@@ -1,0 +1,223 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    padding-bottom: 100px;
+}
+.header_sec{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 20;
+    align-items: center;
+}
+.awalad{
+    font-size: 40px;
+    font-weight: 700;
+    margin_right: 500px; ;
+}
+.btn_down{
+    background-color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.group_img{
+    margin-top: 10px;
+}
+.header_design{
+    width: 100%;
+    min-height: 90vh;
+    background-image: url(Hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    padding: 50px 10%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+.des_future{
+    font-size: 40px;
+    font-weight: 600;
+}
+.lorem_des{
+    font-size: 20px;
+    color: #757575;
+    word-spacing: 8px;
+    line-height: 1.4;
+}
+.btn_contact{
+    background-color: black;
+    border-radius: 7px;
+    color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    width: 200;
+    word-spacing: 2px;
+}
+main{
+    max-width: 1000px;
+    margin: auto;
+    padding-bottom: 80px;
+
+}
+.second_section{
+    background-color: #fafafa;
+    padding-bottom: 20px;
+}
+.main_design{
+    text-align: center;
+    padding-top: 120px;
+}
+.why_web{
+    font-size: 40px;
+    font-weight: 700;
+}
+.img_des{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    border-radius: 6px;
+    box-shadow: opx 5px 40px 0px rgab(0,0,0,0.03);
+    margin: 35px;
+    padding: 50px;
+}
+.zero_career{
+    width: 100%;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid #757575;
+    box-shadow: opx 5px 40px 0px rgab(0,0,0,0.03);
+    padding: 20px;
+    margin: auto;
+}
+.do_coding{
+    font-size: 20px;
+    word-spacing: 8px;
+}
+.learn_more{
+    font-size: 20px;
+    background-color: #fff;
+    padding: 10px;
+    width: 140px;
+}
+.logo_sec{
+display: flex;
+justify-content: space-evenly;
+margin-top: 40px;
+}
+.logo_html{
+    background-color: #fff5f3;
+padding: 40px;
+width: 300px;
+height: 250px;
+border-radius: 10px;
+word-spacing: 4px;
+}
+.logo_css{
+    background-color: #fafafa;
+    padding: 36px;
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    word-spacing: 4px;
+}
+.logo_java{
+    background-color: #ffffff;
+    padding: 40px;
+    width: 350px;
+    height: 260px;
+    border-radius: 10px;
+    word-spacing: 4px;
+}
+.me{
+    display: flex;
+    border: 2px black;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.hi{
+    margin-left: 25px;
+}
+.title_name{
+    font-size: 20px;
+font-weight: 600;
+}
+.main_design{
+    text-align: center;
+    padding: 20px;
+    background-image: url();
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    background-position: center;
+    margin: 18px;
+    padding: 36px;
+    background-size: cover;
+}
+.why_web{
+    font-size: 45px;
+    font-weight: 600;
+    color: #fff;
+}
+.lorem_des1{
+    font-size: 20px;
+    color: #fff;
+    word-spacing: 7px;
+    line-height: 1.4;
+    opacity: 0.9;
+}
+.sub_input{
+display: inline-flex;
+text-align: center;
+justify-content: space-around;
+}
+.wrapper{
+    width: 500px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 35px;
+    display: inline-flex;
+}
+.input_message{
+    width: 100%;
+    border: none;
+    height: 30px;
+    font-size: 15px;
+    outline: none;
+    color: #757575;
+    padding: 18px 35px;
+}
+.btn_submit{
+    font-size: 16px;
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 7px;
+    color: #000;
+    width: 110px;
+    font-weight: 700;
+    cursor: pointer;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fafafa;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+}
+.Commitment_Awlad{
+font-size: 20px;
+word-spacing: 2px;
+padding: 20px;
+margin-right: 500px;
+}
+.footer_icon a{
+    margin-right: 25px;
+    text-align: center;
+}
